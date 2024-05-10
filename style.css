@@ -132,6 +132,8 @@ padding: 5px 8px;
     height: 80vh;
     background-color: white;
     background-size: cover;
+    display: flex;
+    flex-direction: column;
 }
 .h2-nosotras{
     padding: 12px 23px;
@@ -171,6 +173,8 @@ text-align: left;
 .galeria-box{
     float: left;
     width: 25%;
+    display: flex;
+    flex-direction: column;
 }
 /* Nuestras clientes*/
 #nuestras-clientes{
