@@ -138,6 +138,8 @@ padding: 5px 8px;
 }
 .h2-nosotras{
     padding: 12px 23px;
+    display: flex;
+    flex-direction: column;
 }
 
 
@@ -184,7 +186,7 @@ padding-bottom: 100px;
 text-align: left;
 background-color: #FBDBE3;
 background-size: cover;
-padding: 12px 23px;
+
 }
 /*Footer*/
 footer{
@@ -201,5 +203,3 @@ footer{
     padding-bottom: 25px;
     color: black;
     }
-
-    /*PARTE RESPONSIVE*/
